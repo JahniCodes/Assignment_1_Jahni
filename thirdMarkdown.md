@@ -8,3 +8,4 @@ have a new git script, did it work?
 *added the ability to add commit messages in the script*
 **attempting to fix issue with commit messages via script**
 **removed special characters within the script**
+**made a change to remove code redundancy**
